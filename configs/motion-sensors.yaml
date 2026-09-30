@@ -1,0 +1,6 @@
+# Motion sensor configuration for hallway kinetic monitoring
+sensors:
+  hallway_laser:
+    pin: 14
+    debounce_ms: 50
+    alert_threshold_velocity_mps: 4.5
