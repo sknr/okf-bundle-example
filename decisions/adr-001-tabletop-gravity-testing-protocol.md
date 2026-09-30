@@ -23,3 +23,4 @@ All edge surfaces greater than 0.75m above floor level are officially designated
 ## Related Concepts
 - [Runbook: 03:00 AM Corridor Zoomies Mitigation](../runbooks/0300-zoomies-mitigation.md)
 - [ADR-003: Robotic Vacuum Armistice and Curfew](adr-003-robotic-vacuum-armistice-curfew.md)
+- [ADR-999: Broken Missing Concept](adr-999-missing-claw-calibration.md)

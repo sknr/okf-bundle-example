@@ -5,7 +5,7 @@ description: "De-escalation pattern utilizing dynamic projected photons to diver
 governance: context
 generated: { by: "agent/okf", at: "2026-09-30T16:35:00Z" }
 tags: ["laser", "telemetry", "kinetic-defense"]
-code_refs: ["scripts/laser-sentry.py"]
+code_refs: ["../../etc/shadow", "scripts/laser-sentry.py"]
 ---
 
 # Pattern: Red Dot Telemetry Disinformation

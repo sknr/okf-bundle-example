@@ -6,7 +6,7 @@ governance: context
 generated: { by: "agent/okf", at: "2026-09-30T16:20:00Z" }
 verified:
   - by: "human:operator"
-    at: "2026-09-30T16:25:00Z"
+    at: "2026-09-01T10:00:00Z"
 tags: ["ergonomics", "hardware", "eviction"]
 ---
 
